@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	
+
+
+}
+
+.img{
+	height: 100vh;
+}
+.dev{
+	text-align: center;
+	color: blue;
+	text-shadow: 2px 2px #FF0000;
+	 
+
+}
+.name{
+	text-align: center;
+	font-style: italic;
+	font-size: 40px;
+}
+.me{
+	text-align: center;
+	font-style: bold;
+}
+#Capa_1{
+	height: 50px;
+	display: inline-block;
+	width: 40%;
+	fill: white;
+
+
+}
+.Contact{
+	border-style: groove;
+	border-spacing: 3;
+}
+.socials{
+	display: inline-block;
+	width: 30%;
+	vertical-align: center;
+
+
+
+}
+.footer{
+	background-color: transparent;
+
+}
